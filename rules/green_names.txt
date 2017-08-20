@@ -1,0 +1,11 @@
+/SYLLABLE1/	SYLLABLE2/	SYLLABLE3/	MAX_SYLLABLES/	NUMBER_ENTRIES/
+/Oom/		o/		u/		3/		10/
+/Lu/		ae/		ae/
+/Ul/		oo/		in/
+/Mu/		r/		y/
+/L/		w/		ru/
+/M/		we/		r/
+/O/		v/		wu/
+/A/		l/		we/
+/Ao/		/		/
+/Oa/		/		/

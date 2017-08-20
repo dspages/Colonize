@@ -1,0 +1,6 @@
+NUMBER/	RESOURCENAME/	TECH_TO_SEE/	MAX_AMOUNT_DEFAULT/	MIN_AMOUNT_DEFAULT/	DEFAULT_DIFFICULTY/	STARTER_AMOUNT/
+1/	Wood/		1/		20/			10/			2/			30/
+2/	Food/		1/		25/			15/			1/			35/
+3/	Metals/		6/		15/			5/			3/			0/
+4/	Energy/		15/		10/			0/			5/			0/
+5/	Psi Energy/	49/		2/			0/			8/			0/

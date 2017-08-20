@@ -1,0 +1,2 @@
+NUMBER/	AREA_TYPE_NAME/	BONUS_Farming/	BONUS_Construction/	BONUS_Surveying/	BONUS_Woodcutting/	BONUS_Iron Mining/
+1/	Plains/		0/		0/			-4/			0/			0/

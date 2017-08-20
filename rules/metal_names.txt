@@ -1,0 +1,11 @@
+/SYLLABLE1/	SYLLABLE2/	SYLLABLE3/	MAX_SYLLABLES/	NUMBER_ENTRIES/
+/Boc/		mo/		oh/		3/		10/
+/Mor/		wo/		ab/
+/Gan/		tan/		ram/
+/Tor/		kan/		kam/
+/Rot/		pon/		am/
+/Cuh/		gon/		jam/
+/Kuh/		ho/		pom/
+/Kop/		ka/		dan/
+/Rop/		ak/		qun/
+/Ban/		/		/

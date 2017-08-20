@@ -1,0 +1,7 @@
+Number/	INDX/	Comments/		NUMBER_ENTRIES/
+1/	6/	XP bonus/		6/
+2/	7/	Friendly Green/
+3/	8/	Friendly Metal/
+4/	9/	Find laser sword/
+5/	10/	Find outsider fragment/
+6/	11/	Find psi energy node/

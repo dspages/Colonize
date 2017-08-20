@@ -1,0 +1,11 @@
+/SYLLABLE1/	SYLLABLE2/	SYLLABLE3/	MAX_SYLLABLES/	NUMBER_ENTRIES/
+/S/		f/		r/		3/		10/
+/M/		mn/		w/
+/Th/		ch/		ss/
+/R/		bh/		mn/
+/Sh/		w/		gh/
+/Pl/		f/		l/
+/J/		rr/		ll/
+/N/		n/		wh/
+/W/		y/		z/
+/H/		/		/

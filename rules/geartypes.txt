@@ -1,0 +1,44 @@
+NUM/	NAME/			INVENTORY_SLOT/		STARTING_AMOUNT/	TECH_BUILD/	COST_TYPE/	COST_AMOUNT/	BUILDDC/	SKILL_TYPE/	SKILL_BONUS/	DEF/	COMBATSKILL/	DAMMIN/	DAMMAX/	RANGE1/	RANGE2/	RANGE3/	RANGE4/	RANGE5/	RANGE6/	WORKSHOP_TYPE/	ONCAPTURE/	TOOLTIP/
+1/	Empty hands/		1/			0/			2/		0/		0/		0/		0/		0/		0/	11/		10/	20/	2/	-100/	-100/	-100/	-100/	-100/	0/		0/		Hands. Close combat skill. 10-20 damage./
+2/	No armor/		2/			0/			2/		0/		0/		0/		0/		0/		0/	0/		0/	0/	0/	0/	0/	0/	0/	0/	0/		0/		No armor./
+3/	No accessory/		3/			0/			2/		0/		0/		0/		0/		0/		0/	0/		0/	0/	0/	0/	0/	0/	0/	0/	0/		0/		No accessory./
+4/	Farmer's pitchfork/	1/			0/			11/		1/		5/		2/		2/		1/		0/	11/		20/	30/	2/	-100/	-100/	-100/	-100/	-100/	13/		0/		A farmer's pitchfork. +1 farming. 20-30 damage./
+5/	Pistol/			1/			0/			13/		3/		15/		2/		0/		0/		0/	11/		30/	40/	2/	-100/	-100/	-100/	-100/	-100/	13/		0/		A pistol. Close combat skill. 30-40 damage./
+6/	Woodcuttrer's ax/	1/			0/			11/		1/		5/		2/		1/		1/		0/	11/		20/	30/	2/	-100/	-100/	-100/	-100/	-100/	13/		0/		A woodcutter's axe. +1 woodcutting. 20-30 damage./
+7/	Builder's hammer/	1/			0/			11/		1/		5/		2/		3/		1/		0/	11/		20/	30/	2/	-100/	-100/	-100/	-100/	-100/	13/		0/		A builder's hammer. +1 Construction skill. 20-30 damage./
+8/	Termitefolk spear/	1/			0/			2/		0/		0/		0/		0/		0/		0/	11/		20/	30/	2/	-100/	-100/	-100/	-100/	-100/	13/		0/		A strange spear with a poison tip. Close combat skill. 20-35 damage./
+9/	Shotgun/		1/			0/			16/		3/		30/		4/		0/		0/		0/	11/		40/	50/	2/	-100/	-100/	-100/	-100/	-100/	13/		0/		A shotgun. Close combat skill. 40-50 damage./
+10/	Flamethrower/		1/			0/			30/		4/		60/		5/		0/		0/		0/	11/		50/	60/	2/	-100/	-100/	-100/	-100/	-100/	13/		0/		A flamethrower. Close combat skill. 50-60 damage./
+11/	Basic Armor/		2/			0/			20/		3/		25/		6/		0/		0/		10/	0/		0/	0/	0/	0/	0/	0/	0/	0/	13/		0/		Basic armor. Reduces all incoming damage by 10./
+12/	Assault Rifle/		1/			0/			21/		3/		30/		6/		0/		0/		0/	14/		40/	60/	2/	0/	-100/	-100/	-100/	-100/	13/		0/		Assault rifle. 40-60 damage. Automatic weapons skill./
+13/	Light Machine Gun/	1/			0/			33/		3/		60/		8/		0/		0/		0/	14/		50/	70/	2/	0/	-100/	-100/	-100/	-100/	13/		0/		A machine gun. 50-70 damage. Automatic weapons skill./
+14/	Scientist's books/	3/			0/			11/		1/		10/		4/		6/		1/		0/	0/		0/	0/	0/	0/	0/	0/	0/	0/	13/		0/		This item provides a +1 bonus to ancient earth tech./
+15/	Sniper Rifle/		1/			0/			22/		3/		50/		10/		0/		0/		0/	20/		50/	80/	0/	0/	0/	-100/	-100/	-100/	13/		0/		A sniper rifle. Sniping skill. 50-80 damage. Doesn't get the usual bonus against adjacent targets./
+16/	Bulletproof vest/	2/			0/			23/		3/		50/		10/		0/		0/		20/	0/		0/	0/	0/	0/	0/	0/	0/	0/	13/		0/		Bulletproof vest. Reduces all incoming damage by 20./
+17/	Green Armband/		3/			0/			2/		0/		0/		0/		0/		0/		0/	0/		0/	0/	0/	0/	0/	0/	0/	0/	0/		0/		These armbands seem to be of religious significance to the greens, but if they have any practical use, we are not aware of it./
+18/	Miner's pick/		1/			0/			12/		1/		10/		4/		10/		1/		0/	11/		20/	30/	2/	-100/	-100/	-100/	-100/	-100/	13/		0/		A miner's pick. +1 metal mining skill. 20-30 damage./
+19/	Powered Armor/		2/			0/			31/		4/		60/		10/		0/		0/		30/	0/		0/	0/	0/	0/	0/	0/	0/	0/	25/		0/		A self-sustaining mechanical exoskeleton. Reduces all incoming damage by 30./
+20/	Metal Man Hammer/	1/			0/			2/		0/		0/		0/		0/		0/		0/	11/		25/	35/	2/	-100/	-100/	-100/	-100/	-100/	0/		0/		A heavy hammer used by the metal people. 25-40 damage. Close combat skill./
+21/	Outsider Plasma Pistol/	1/			0/			2/		0/		0/		0/		0/		0/		0/	11/		40/	60/	2/	-100/	-100/	-100/	-100/	-100/	0/		22/		A hidden weapon used by the outsiders. Close combat skill. 40-60 damage./
+22/	Outsider Tech Fragment/	3/			0/			2/		0/		0/		0/		0/		0/		0/	0/		0/	0/	0/	0/	0/	0/	0/	0/	0/		0/		The weapons of the outsiders seems to self-destruct if the operator is killed or captured. This is the fragment that remains. It may be useful for future research./
+23/	Outsider Micro Shield/	2/			0/			2/		0/		0/		0/		0/		0/		15/	0/		0/	0/	0/	0/	0/	0/	0/	0/	0/		-1/		A hidden armor used by the outsiders. Weaker than a normal energy shield (only absorbs 15 damage)./
+24/	Forward Grip/		3/			0/			38/		1/		5/		3/		0/		0/		0/	0/		0/	0/	1/	0/	0/	0/	0/	0/	13/		0/		Forward grips reduce the difficulty of attacking an adjacent target by -1./
+25/	Armor Piercing/		3/			0/			38/		3/		5/		3/		0/		0/		0/	0/		2/	2/	0/	0/	0/	0/	0/	0/	13/		0/		The armor piercing mod provides +2 damage to your attacks./
+26/	Mapping tools/		3/			0/			12/		1/		10/		4/		4/		1/		0/	0/		0/	0/	0/	0/	0/	0/	0/	0/	13/		0/		This provides a +1 bonus to scouting./
+27/	Stasisbreaking tools/	3/			0/			12/		3/		10/		5/		9/		1/		0/	0/		0/	0/	0/	0/	0/	0/	0/	0/	13/		0/		This provides a +1 bonus to stasisbreaking./
+28/	Extra Armor/		3/			0/			39/		3/		15/		6/		0/		0/		5/	0/		0/	0/	0/	0/	0/	0/	0/	0/	13/		0/		Heavier armor plating reduces incoming damage by 5 (this stacks with armor)./
+29/	Scope/			3/			0/			40/		3/		5/		8/		0/		0/		0/	0/		0/	0/	0/	3/	0/	0/	0/	0/	13/		0/		Scopes reduce the difficulty of attacking targets 2 squares away by -3./
+30/	High Explosive/		3/			0/			40/		4/		20/		8/		0/		0/		0/	0/		10/	10/	0/	0/	0/	0/	0/	0/	13/		0/		High explosive ammunition provides a +10 bonus to damage./
+31/	Railgun/		1/			0/			32/		4/		80/		10/		0/		0/		0/	14/		60/	80/	2/	0/	-100/	-100/	-100/	-100/	25/		0/		An incredibly powerful automatic weapon. 60-80 damage. Automatic weapons skill./
+32/	Laser Rifle/		1/			0/			32/		4/		100/		12/		0/		0/		0/	20/		60/	90/	0/	0/	0/	-100/	-100/	-100/	25/		0/		A more powerful version of the sniper rifle. Sniping skill. 60-90 damage. Doesn't get the usual bonus against adjacent targets./
+33/	Deflector shield/	2/			0/			45/		4/		120/		12/		0/		0/		40/	0/		0/	0/	0/	0/	0/	0/	0/	0/	25/		0/		A defensive energy shield. Reduces all incoming damage by 40./
+34/	Psi Sword/		1/			0/			2/		0/		0/		0/		0/		0/		0/	11/		60/	70/	2/	-100/	-100/	-100/	-100/	-100/	0/		0/		An ancient psi sword. Close combat skill. 60-70 damage./
+35/	Outsider Plasma Rifle/	1/			0/			2/		0/		0/		0/		0/		0/		0/	14/		60/	80/	2/	0/	-100/	-100/	-100/	-100/	0/		22/		A hidden weapon used by the outsiders. Automatic weapons skill. 55-75 damage./
+36/	Outsider Power Shield/	2/			0/			2/		0/		0/		0/		0/		0/		30/	0/		0/	0/	0/	0/	0/	0/	0/	0/	0/		-1/		A hidden armor used by the outsiders. Weaker than a normal energy shield (only absorbs 30 damage)./
+37/	Energetics tools/	3/			0/			46/		3/		40/		8/		12/		1/		0/	0/		0/	0/	0/	0/	0/	0/	0/	0/	25/		0/		This provides a +1 bonus to energy production checks./
+38/	Archaeologist's tools/	3/			0/			46/		4/		40/		8/		23/		1/		0/	0/		0/	0/	0/	0/	0/	0/	0/	0/	25/		0/		This provides a +1 bonus to archaeology./
+39/	Demolitions tools/	3/			0/			46/		4/		20/		4/		15/		1/		0/	0/		0/	0/	0/	0/	0/	0/	0/	0/	25/		0/		This provides a +1 bonus to demolitions./
+40/	Psi Projector/		1/			0/			50/		5/		30/		14/		0/		0/		0/	26/		60/	100/	2/	0/	0/	0/	-100/	-100/	25/		0/		A psi projector with 4 range. Psi projection. 60-100 damage./
+41/	Fusion Rifle/		1/			0/			47/		4/		180/		14/		0/		0/		0/	20/		70/	100/	0/	0/	0/	-100/	-100/	-100/	25/		0/		The most powerful energy-based weapon in the game. 70-100 damage. Doesn't get the usual bonus against adjacent targets./
+42/	Psionic shield/		2/			0/			51/		5/		90/		15/		0/		0/		50/	0/		0/	0/	0/	0/	0/	0/	0/	0/	25/		0/		A psionic shield that erases incoming projectiles from existence. +50 defense./
+43/	Deathray/		1/			0/			57/		5/		120/		15/		0/		0/		0/	26/		70/	110/	2/	0/	0/	0/	-100/	-100/	25/		0/		An even more destructive version of the psi projector. Psi projection. 70-110 damage./

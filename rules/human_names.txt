@@ -1,0 +1,22 @@
+/SYLLABLE1/	SYLLABLE2/	SYLLABLE3/	MAX_SYLLABLES/	NUMBER_ENTRIES/
+/Od/		val/		la/		3/		21/
+/Ed/		win/		a/
+/Na/		kin/		sy/
+/Ri/		non/		o/
+/Mo/		ham/		mad/
+/Pa/		ze/		na/
+/An/		la/		go/
+/I/		a/		fad/
+/Mu/		staf/		ah/
+/Ja/		heir/		oh/
+/Bi/		nom/		iel/
+/Za/		har/		y/
+/Kim/		ber/		man/
+/Em/		m/		kad/
+/Yg/		w/		id/
+/U/		g/		an/
+/La/		fey/		ielle/
+/Cla/		mat/		or/
+/Fa/		f/		nid/
+/Ti/		op/		za/
+/D/		/		/

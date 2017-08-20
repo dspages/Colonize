@@ -1,0 +1,10 @@
+NUMBER/	DESC/			SPECI/	AGEMIN/	AGEMAX/	LEVEL/	EQUIP1/	EQUIP2/	EQUIP3/	SPEED/	DEMOL?/	STEAL?/	STEAL_RESOURCE/	TARGETRANGE/	SPAWN_START/	SPAWN_END/	SPAWN_MTTH/	IF/	IFVAR1/	IFVAR2/
+1/	Termite Raider/		2/	10/	25/	1/	8/	2/	3/	3/	0/	1/	1/		3/		20/		35/		16/		/	/	/
+2/	Plant Pariah/		3/	24/	100/	1/	1/	2/	17/	1/	0/	0/	0/		3/		5/		30/		16/		VAR==/	2/	0/
+3/	Termite Elite/		2/	15/	20/	3/	8/	2/	3/	2/	0/	1/	1/		3/		35/		-1/		12/		/	/	/
+4/	Plant Fanatic/		3/	36/	48/	2/	1/	2/	17/	2/	0/	0/	0/		3/		30/		55/		12/		VAR==/	2/	0/
+5/	Metal Hermit/		4/	20/	50/	1/	20/	2/	3/	1/	0/	1/	1/		2/		40/		50/		16/		/	/	/
+6/	Outsider Scout/		5/	28/	56/	2/	21/	23/	3/	2/	0/	1/	1/		4/		50/		-1/		16/		/	/	/
+7/	Metal Militia/		4/	30/	40/	5/	20/	2/	3/	2/	0/	1/	1/		2/		45/		-1/		12/		/	/	/
+8/	Outsider Warrior/	5/	42/	56/	3/	35/	36/	3/	2/	0/	1/	1/		4/		55/		-1/		12/		/	/	/
+9/	Mind Controlled/	/	/	/	/	/	/	/	1/	0/	1/	1/		3/		2/		1/		-1/		/	/	/

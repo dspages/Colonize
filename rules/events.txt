@@ -1,0 +1,16 @@
+NUM/	TYPE/	IF_1/		IF1_V1/	IF1_V2/	IF_2/		IF2_V1/	IF2_V2/	IF_3/	IF3_V1/	IF3_V2/	HEADER/	OPT_1/	OPTT_1/	OPT_1_DO1/	OPT_1_DO_1_V1/	OPT_1_DO_1_V2/	OPT_1_DO2/	OPT_1_DO_2_V1/	OPT_1_DO_2_V2/	OPT_2/	OPTT_2/	OPT_2_DO1/	OPT_2_DO_1_V1/	OPT_2_DO_1_V2/	OPT_2_DO2/	OPT_2_DO_2_V1/	OPT_2_DO_2_V2/	OPT_3/	OPTT_3/	OPT_3_DO1/	OPT_3_DO_1_V1/	OPT_3_DO_1_V2/	OPT_3_DO2/	OPT_3_DO_2_V1/	OPT_3_DO_2_V2/	MTTH/	COMMENT/
+1/	IND/	/		/	/	/		/	/	/	/	/	*t_1/	*t_2/	*info/	DAMME/		0/		1/		FIRECOL/	/		/		*t_3/	*info/	DAMME/		2/		11/		/		/		/		/	/	/		/		/		/		/		/		240/	Injury - can let them take it easy or keep them at work/
+2/	IND/	!TECH/		27/	/	/		/	/	/	/	/	*t_4/	*t_5/	/	DAMHALF/	1/		50/		/		/		/		/	/	/		/		/		/		/		/		/	/	/		/		/		/		/		/		600/	Plague - half of colonists take damage/
+3/	AREA/	!TECH/		36/	/	YEAR>/		4/	/	/	/	/	*t_6/	*t_5/	/	CUT_RES/	1/		4/		/		/		/		/	/	/		/		/		/		/		/		/	/	/		/		/		/		/		/		32/	Loss of wood from spoilage/
+4/	AREA/	!TECH/		36/	/	YEAR>/		4/	/	/	/	/	*t_7/	*t_5/	/	CUT_RES/	2/		4/		/		/		/		/	/	/		/		/		/		/		/		/	/	/		/		/		/		/		/		32/	Loss of food from spoilage/
+5/	IND/	NEVER/		/	/	/		/	/	/	/	/	*t_8/	*t_9/	/	OUTCOME/	1/		/		/		/		/		/	/	/		/		/		/		/		/		/	/	/		/		/		/		/		/		1/	Goodie hut explored/
+6/	IND/	NEVER/		/	/	/		/	/	/	/	/	*t_10/	*t_5/	*info/	ADDXP/		300/		/		/		/		/		/	/	/		/		/		/		/		/		/	/	/		/		/		/		/		/		-1/	Gain 300 xp/
+7/	IND/	NEVER/		/	/	/		/	/	/	/	/	*t_11/	*t_12/	/	CREATEPERSON/	2/		1/		/		/		/		*t_13/	/	/		/		/		/		/		/		/	/	/		/		/		/		/		/		-1/	Create friendly Green/
+8/	IND/	NEVER/		/	/	/		/	/	/	/	/	*t_14/	*t_5/	/	CREATEPERSON/	5/		1/		/		/		/		/	/	/		/		/		/		/		/		/	/	/		/		/		/		/		/		-1/	Create hostile metal/
+9/	IND/	NEVER/		/	/	/		/	/	/	/	/	*t_15/	*t_5/	/	CREATEGEAR/	34/		0/		/		/		/		/	/	/		/		/		/		/		/		/	/	/		/		/		/		/		/		-1/	Create psi sword/
+10/	IND/	NEVER/		/	/	/		/	/	/	/	/	*t_16/	*t_5/	/	CREATEGEAR/	22/		0/		/		/		/		/	/	/		/		/		/		/		/		/	/	/		/		/		/		/		/		-1/	Create outsider fragment/
+11/	IND/	NEVER/		/	/	/		/	/	/	/	/	*t_17/	*t_5/	/	TILERESOURCE+/	5/		5/		/		/		/		/	/	/		/		/		/		/		/		/	/	/		/		/		/		/		/		-1/	Create psi node/
+12/	IND/	NEARSTRUCT/	31/	1/	/		/	/	/	/	/	*t_18/	*t_5/	*info/	OUTCOME/	2/		/		/		/		/		/	/	/		/		/		/		/		/		/	/	/		/		/		/		/		/		480/	Baddie hut 1 triggered/
+13/	IND/	NEVER/		/	/	/		/	/	/	/	/	*t_19/	*t_5/	*info/	SET_ENEMY_TYPE/	9/		/		/		/		/		/	/	/		/		/		/		/		/		/	/	/		/		/		/		/		/		-1/	Causes the person to become hostile/
+14/	AREA/	VAR==/		2/	0/	YEAR>/		5/	/	/	/	/	*t_20/	*t_12/	/	VAR=/		2/		1/		/		/		/		*t_13/	/	/		/		/		/		/		/		/	/	/		/		/		/		/		/		32/	Greens propose peace/
+15/	AREA/	VAR==/		2/	1/	ALIVE_OF_SPECI/	3/	0/	/	/	/	*t_21/	*t_12/	/	CREATEPERSON/	2/		1/		/		/		/		*t_13/	/	/		/		/		/		/		/		/	/	/		/		/		/		/		/		32/	Friendly green enters colony/

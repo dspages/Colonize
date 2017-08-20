@@ -1,0 +1,28 @@
+JOB_NUMBER/	TRIVIAL_NAME/		RESOURCE_GATHERED/	SPECIAL_FLAG/	RANGE/	TECH_UNLOCK/	LEARN_JOB/	TOOLTIP/
+1/		Woodcutting/		1/			0/		1/	1/		7/		Gather wood. Wood is useful for very early game structures and buildings. Use on a tile that has much wood. Range=1./
+2/		Farming/		2/			0/		1/	1/		7/		Gather food. Human colonists will die without food. Use on a tile that has much food. Range=1./
+3/		Construction/		0/			1/		2/	1/		7/		Build new buildings. Range=2./
+4/		Scouting/		0/			2/		3/	10/		7/		Uncover the fog of war. Range=3./
+5/		Idle/			0/			3/		0/	2/		0/		Hardcoded./
+6/		Ancient Earth Tech/	0/			4/		0/	1/		7/		We lost much of our tech when we made landfall. This allows us to research ancient earth technologies. Range=0./
+7/		Tier 1 Learning/	0/			5/		0/	3/		0/		Spend skill points to improve a skill. Range=0./
+8/		Imprisoned/		0/			6/		0/	2/		0/		REMOVED/
+9/		Stasisbreaking/		0/			7/		0/	5/		7/		Increase your population by recoving people from stasis. Range=0./
+10/		Metals Mining/		3/			0/		0/	6/		7/		Gather metal. Metals are used for early game structures and items. Use on a tile that has much metal. Range=0./
+11/		Close Combat/		0/			8/		1/	1/		7/		Combat skill. Useful for fending off early game enemies. Range=1./
+12/		Energy production/	4/			0/		0/	15/		17/		Production of energy. Energy is used for midgame structures and items. Use on a tile that has much energy. Can only be learned at a VR library. Range=0./
+13/		Craftsman/		0/			9/		0/	11/		7/		Covers the creation of various equippable items in the workshop. Range=0./
+14/		Automatic weapons/	0/			8/		2/	21/		7/		Combat skill. Covers the use of automatic firearms. Range=2./
+15/		Demolitions/		0/			10/		4/	18/		7/		Used to destroy unwanted or obsolete buildings. Range=4./
+16/		Xenobiology/		0/			4/		0/	14/		17/		Research new xenobiology technologies. Can only be learned at a VR library. Range=0./
+17/		Tier 2 Learning/	0/			5/		0/	25/		0/		Spend skill points to improve a tier 2 skill. Range=0./
+18/		Propaganda/		0/			11/		3/	4/		17/		Use on injured enemies to convince them to defect and join your colony. Can only be learned at a VR library. Range=3, DC=10+1/3 enemy health./
+19/		Healing/		0/			12/		3/	19/		7/		Use on injured friendly colonists to heal them. Range=3./
+20/		Sniping/		0/			8/		3/	22/		17/		Combat skill. Covers the use of long-ranged weapons like the sniper rifle. Can only be learned at a VR library. Range=3./
+21/		Alien Tech/		0/			4/		0/	26/		17/		Research technologies based on recovered alien items. Can only be learned at a VR library. Range=0./
+22/		Cloning/		0/			13/		0/	35/		17/		A successful cloning check doubles the speed of population growth for the worker's species. Multiple cloners of the same species do not stack./
+23/		Archaelogy/		0/			10/		4/	29/		17/		Archaelogy can be used on ancient ruins to uncover special items and other goodies. Range=4./
+24/		Xenophysics/		0/			4/		0/	37/		17/		Research new xenophysics technologies. Can only be learned at a VR library. Range=0./
+25/		High-energy crafting/	0/			9/		0/	44/		17/		Build powerful late-game equipment at the high-energy workshop. Can only be learned at a VR library. Range=0./
+26/		Psi projection/		0/			8/		4/	50/		17/		Combat skill. Covers the use of psi projectors. Can only be learned at a VR library. Range=4./
+27/		Psi Energy Extraction/	5/			0/		0/	49/		17/		Gather psi energy. Psi energy is used for end-game items. Can only be learned at a VR library. Range=0./

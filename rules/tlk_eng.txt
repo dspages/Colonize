@@ -1,0 +1,22 @@
+Number/	Text/
+1/	INJURY! The frontier is a dangerous place, and one of your people has been injured in an accident. You can remove them from their job (0-1 damage) or not (2-11 damage)/
+2/	Give them time to recover/
+3/	Put them back to work/
+4/	PLAGUE! Many strange alien diseases are present in this world, and one of them afflicts your colony. Each colonist has a 50% chance to be afflicted, victims take 1-50 damage./
+5/	OK/
+6/	ROTTING! Lack of preservatives means some of your wood has gone bad. You are forced to discard 25% of your wood stockpile./
+7/	SPIOLAGE! Lack of preservatives means some of your food has gone bad. You are forced to discard 25% of your food stockpile./
+8/	Archaelogy! Your explorer has successfully explored the alien ruins.../
+9/	Continue.../
+10/	Your archaeologist finds an alien sensory stone, containing the combined experiences and memories of many aliens. +300 experience points./
+11/	Your archaeologist finds a green alien hiding among the ruins. It becomes clear that the creature is friendly. It offers to join your colony and live among your people./
+12/	Accept/
+13/	Refuse/
+14/	Your archaeologist finds a reclusive metal alien hiding among the ruins. It agrees to join your colony./
+15/	Your archaeologist finds a remarkable psionic sword in the ruins. It appears to be ancient. It could be used as a powerful weapon, or disassembled and researched./
+16/	Your archaeologist finds strange fragments of advanced technology in the ruins. It is unclear how long it has been here. It may be useful to study it further./
+17/	Your archaeologist finds a strange node of psychic energy here. It may be useful./
+18/	Your colonist that was working near one of the strange alien shrines begins showing strange symptoms.../
+19/	The colonist goes berserk, attacking the others!/
+20/	An envoy from the plant people has visited your colony - after some difficulties in translation, it is clear that they want peace./
+21/	Now that you are at peace with the plant people, one of them wants to join your colony and live among your people./

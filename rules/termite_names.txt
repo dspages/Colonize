@@ -1,0 +1,11 @@
+/SYLLABLE1/	SYLLABLE2/	SYLLABLE3/	MAX_SYLLABLES/	NUMBER_ENTRIES/
+/Tla/		ns/		k/		3/		10/
+/Zre/		pk/		x/
+/Thys/		mx/		z/
+/Tkek/		ez/		y/
+/Zi/		qu/		ta/
+/Xy/		tw/		r/
+/T/		th/		uv/
+/K/		s/		xy/
+/Yk/		w/		akk/
+/X/		/		/

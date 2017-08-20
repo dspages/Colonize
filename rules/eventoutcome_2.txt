@@ -1,0 +1,2 @@
+Number/	INDX/	Comments/		NUMBER_ENTRIES/	GLOBAL_COMMENT/
+1/	13/	Mind Control/		1/		This file covers events resulting from working near the alien shrine/

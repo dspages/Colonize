@@ -1,0 +1,58 @@
+TECH_NUMBER/	TECHNAME/		CATEGORY/	Prereq_tech1/	Prereq_tech2/	Prereq_item/	Difficulty/ 	TOOLTIP/
+1/		No prereq/		0/		1/		1/		0/		0/		/
+2/		Never/			0/		1/		1/		0/		0/		/
+3/		Libraries/		6/		1/		1/		0/		4/		Allows you to build libraries, where you can spend skill points to improve colonists/
+4/		Propaganda/		16/		3/		5/		0/		6/		Allows you to build propoganda centers, which can convince wounded enemies to defect and join your colony/
+5/		Stasis Breaking/	16/		6/		14/		0/		6/		Allows you to build stasis breaking chambers, where you can rescue humans from stasis pods/
+6/		Metals Mining/		6/		1/		1/		0/		4/		Allows you to mine metals, used for many early game items/
+7/		Improved Woodcutting/	16/		6/		9/		0/		8/		Allows you to build improved woodmills, increasing wood production/	
+8/		Improved Farming/	16/		6/		9/		0/		10/		Allows you to build improved farms, increasing food production/
+9/		Foraging/		6/		1/		1/		0/		2/		Allows you to build farms and woodmills, increasing food and wood production/
+10/		Expansion/		6/		9/		1/		0/		8/		Allows you to build construction yards and scout towers, giving you the ability to expand your territory beyond your starting command center/
+11/		Workshops/		6/		1/		1/		0/		4/		Allows you to build workshops. With workshops, you can craft new items including tools and weapons./
+12/		Improved Tools/		6/		11/		1/		0/		10/		Allows you to build gear in the workshop to further enhance the productivity of your workers./
+13/		Pistols/		6/		11/		6/		0/		10/		Allows you to build pistols in your workshop./
+14/		Xenobiology/		6/		3/		9/		0/		10/		Allows you to access the xenobiology tech tree./
+15/		Energy extraction/	6/		14/		1/		0/		10/		Allows you to build power plants. Power is used for midgame structures and items/
+16/		Shotguns/		6/		12/		13/		0/		11/		Allows you to build shotguns./
+17/		Improved Metals Mining/	24/		15/		37/		0/		10/		Allows you to build improved iron mines./
+18/		Demolitions/		6/		10/		1/		0/		8/		Allows you to demolish buildings from the construction yard, removing obsolete structures or encroaching alien structures./
+19/		Healing/		16/		14/		1/		0/		8/		The most simple medical tech. Allows you to build clinics./
+20/		Armor/			6/		6/		11/		0/		10/		Allows you to build basic armor in the workshop to improve the defense of your fighters/
+21/		Rifles/			6/		16/		38/		0/		12/		Allows you to build the assault rifle/
+22/		Machineguns/		6/		21/		1/		0/		14/		Allows you to build the machinegun, a powerful automatic weapon./
+23/		Bulletproof vests/	6/		17/		20/		0/		12/		Allows you to build bulletproof vests, to improve the defense of your fighters./
+24/		Improved healing/	16/		19/		25/		0/		12/		Allows you to build the medbay, increasing the efficiency of your healers./
+25/		VR libraries/		6/		14/		1/		0/		8/		Allows you to build a VR library, where you can train people in tier 2 skills./
+26/		Alien Technology/	16/		14/		1/		17/		12/		We have begun to recover various alien items. Researching this tech will allow us to reverse engineer them for our own purposes./
+27/		Alien Vaccines/		21/		19/		1/		8/		10/		Our healers believe that the poison on the termitefolk spears can be processed into a potent vaccine, effectively immunizing our colonists from future plagues./
+28/		REMOVED Alien Religion/	21/		2/		2/		17/		10/		Our scientists believe that the green armbands are important to their religion. Studying them may uncover useful data about alien society./
+29/		Alien Archaeology/	21/		26/		1/		0/		10/		By training some of our colonists in archaeology, we may be able to uncover hidden secrets, resources, and data from the alien ruins on the planet./
+30/		Flamethrowers/		6/		15/		16/		0/		12/		Allows you to build flamethrowers, the most advanced human close range weapon./
+31/		Powered armor/		24/		23/		30/		0/		14/		Allows you to build powered armor./
+32/		Sniping/		6/		21/		25/		0/		14/		Allows you to build the sniper rifle, the first weapon with range 3./
+33/		REMOVED/		6/		2/		2/		0/		12/		Allows you to build the light machine gun, an improved automatic weapon./
+34/		Antimatter Containment/	24/		15/		31/		0/		14/		Allows you to build the antimatter plant, which improves energy income./
+35/		Genetic Engineering/	16/		15/		24/		0/		14/		Allows you to build the gene bank, which improves population growth./
+36/		Preservatives/		16/		19/		18/		0/		10/		This tech passively prevents loss of food and wood from spoilage and rotting./
+37/		Xenophysics/		6/		14/		15/		0/		14/		We have begun to encounter materials and techs that defy our understanding of physics. We will need a new discipline - xenophysics - to master them./
+38/		Weapon Accessories/	6/		13/		1/		0/		8/		Allows you to build accessories in the workshop to enhance the offensive abilities of your soldiers./
+39/		Armor Accesories/	6/		20/		38/		0/		10/		Allows you to build accessories in the workshop to enhance the defensive abilities of your soldiers./
+40/		Advanced Accesories/	6/		32/		18/		0/		12/		Allows you to build sophisticated gear in the workshop to enhance your soldiers./
+41/		Outsider Tech Analysis/	21/		26/		1/		22/		12/		The technology of the outsiders self-destructs if the operator is killed or captured. However, we may still be able to use the fragments to further our own research./
+42/		Railguns/		24/		41/		22/		22/		14/		We believe we can use the outsider technology to construct a new generation of automatic weapons./
+43/		Laser Rifles/		24/		42/		34/		22/		14/		These upgraded weapons replace our existing sniper rifles with a new generation of equipment./
+44/		High-energy workshops/	24/		1/		1/		1/		8/		These improved workshops will be used to construct advanced, energy-based equipment./
+45/		Energy Shielding/	24/		31/		41/		22/		16/		We believe we can use the outsider technology to construct a new generation of defensive shielding./
+46/		High-energy tools/	24/		44/		41/		22/		8/		These tools can be used to enhance our workers in sophisticated tasks./
+47/		Fusion Rifles/		24/		43/		46/		22/		16/		Fusion rifles represent the ultimate energy-based weapon, and replace our existing sniper and laser rifles./
+48/		Psi sword deconstruction/21/		26/		1/		34/		14/		Taking apart the psi sword we have found may open up future research paths, but we will lose the weapon./
+49/		Psi energy extraction/	16/		48/		34/		0/		14/		With this technology, we can extract psionic energy./
+50/		Psi projectors/		16/		49/		32/		0/		16/		These psi projectors will represent a new paradigm in weapons technology, psionically eliminating enemies from vast distances./
+51/		Psi shielding/		16/		56/		45/		22/		17/		These psi shields will provide unmatched defense for our soldiers./
+52/		Food Replication/	24/		56/		8/		22/		14/		Outsider tech may allow us to replicate food, greatly increasing productivity./
+53/		Wood Replication/	24/		56/		7/		22/		12/		Outsider tech may allow us to replicate wood, greatly increasing productivity./
+54/		Metal Replication/	24/		56/		17/		22/		12/		Outsider tech may allow us to replicate metals, greatly increasing production./
+55/		Energy Replication/	24/		56/		34/		22/		14/		Outsider tech may allow us to replicate energy, greatly increasing production./
+56/		Outsider-psi tech/	21/		49/		41/		22/		14/		It may be possible to merge psionic tech with outsider tech, unlocking even more advanced options./
+57/		Deathrays/		21/		47/		51/		22/		17/		The deathray is an even more powerful version of the psi projector./
